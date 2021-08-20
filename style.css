@@ -44,20 +44,26 @@ span {
    
 */
 
+
 .container {
     width: 90%;
 }
 
 .card {
-    background: black;
-    padding: 1em;
+    background: #2C3031;
+    padding: 1.5em;
 }
 
 p.date {
-
+    text-transform: uppercase;
+    font-size: .75em;
+    letter-spacing: .1em;
+    color: #7A8587;
+    margin-bottom: .4em;
 }
 
 h3 {
-    color: white;
-    margin-left: 0em;
+    margin: 0 0 .3em;
+    color: #B6EAFF;
+    font-size: 1.8em;
 }
