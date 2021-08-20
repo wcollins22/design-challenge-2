@@ -45,11 +45,12 @@ span {
 */
 
 .container {
-
+    width: 90%;
 }
 
 .card {
-
+    background: black;
+    padding: 1em;
 }
 
 p.date {
@@ -57,5 +58,6 @@ p.date {
 }
 
 h3 {
-
+    color: white;
+    margin-left: 0em;
 }
